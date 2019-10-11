@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		C3A2CDFB2351031700816D01 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A2CDFA2351031700816D01 /* AppDelegate.swift */; };
-		C3A2CDFD2351031700816D01 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A2CDFC2351031700816D01 /* SceneDelegate.swift */; };
 		C3A2CE002351031700816D01 /* Color_Picker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C3A2CDFE2351031700816D01 /* Color_Picker.xcdatamodeld */; };
 		C3A2CE022351031700816D01 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A2CE012351031700816D01 /* ContentView.swift */; };
 		C3A2CE042351031900816D01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3A2CE032351031900816D01 /* Assets.xcassets */; };
@@ -30,7 +29,6 @@
 /* Begin PBXFileReference section */
 		C3A2CDF72351031700816D01 /* Color Picker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Color Picker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3A2CDFA2351031700816D01 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C3A2CDFC2351031700816D01 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C3A2CDFF2351031700816D01 /* Color_Picker.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Color_Picker.xcdatamodel; sourceTree = "<group>"; };
 		C3A2CE012351031700816D01 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C3A2CE032351031900816D01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -82,7 +80,6 @@
 			isa = PBXGroup;
 			children = (
 				C3A2CDFA2351031700816D01 /* AppDelegate.swift */,
-				C3A2CDFC2351031700816D01 /* SceneDelegate.swift */,
 				C3A2CE012351031700816D01 /* ContentView.swift */,
 				C3A2CE032351031900816D01 /* Assets.xcassets */,
 				C3A2CE082351031900816D01 /* LaunchScreen.storyboard */,
@@ -214,7 +211,6 @@
 				C3A2CE002351031700816D01 /* Color_Picker.xcdatamodeld in Sources */,
 				C3A2CDFB2351031700816D01 /* AppDelegate.swift in Sources */,
 				C3A2CE022351031700816D01 /* ContentView.swift in Sources */,
-				C3A2CDFD2351031700816D01 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
